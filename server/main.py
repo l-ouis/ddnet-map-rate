@@ -12,7 +12,7 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 ratings = {}
 verified_ratings = {}
 # From highest to lowest trust level - just random strings
-whitelisted_tokens = ['135a', 'iamatester1', 'ooga', 'letmein!']
+whitelisted_tokens = ['a', 'b', 'c', 'd', 'e', 'f']
 CATEGORIES = ['novice', 'moderate', 'brutal', 'insane', 'solo', 'dummy', 'oldschool', 'race', 'ddmax.easy', 'ddmax.next', 'ddmax.nut', 'ddmax.pro', 'fun']
 
 with open('map_data.json', 'r') as file:
