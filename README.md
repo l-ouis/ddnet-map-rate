@@ -6,7 +6,7 @@ No complex authentication set up -- users send requests with a simple name and t
 
 ## how to run:
 
-download the ddnet maps master (ddnet.org/download) and put it in root folder, then 
+if you want to generate map data yourself, download the ddnet maps master (ddnet.org/download) and put it in root folder, then 
 run the python script in the frontend folder and have copies in frontend/data and server/ (will be fixed sometime)
 
 `cd server` -> `python main.py`
