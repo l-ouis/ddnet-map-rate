@@ -17,3 +17,5 @@ run the python script in the frontend folder and have copies in frontend/data an
 - fix python map getter script
 - Better typing across the board
 - testing for both front+backend
+- use production libraries for backend
+- 
