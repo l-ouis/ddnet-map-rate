@@ -4,6 +4,9 @@ Pretty simple nodejs + react + python flask app to compile ddnet map ratings wit
 
 No complex authentication set up -- users send requests with a simple name and token (which is given to trusted users manually).
 
+![image](https://github.com/user-attachments/assets/008e5f3d-172f-4cb4-b698-730716181791)
+
+
 ## how to run:
 
 if you want to generate map data yourself, download the ddnet maps master (ddnet.org/download) and put it in root folder, then 
